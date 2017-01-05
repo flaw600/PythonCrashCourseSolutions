@@ -1,0 +1,3 @@
+In Python you can make Dictionaries
+In Python you can't have private or protected variables
+In Python you can read input easier than in Java
